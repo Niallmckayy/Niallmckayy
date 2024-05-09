@@ -4,7 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Software Engineering Intern / Computer Science Master's Student
 -----------------------------------------------------------------------
 
-Currently: Backend Software Engineer Intern @ Asora - A Wealth Management Saas Platform + Computer Science Master's Student in UCD. Previously worked in Tech Recruitment in TG Group and as a capital markets data analyst for Citi. Tech Stack: Backend - Python, Django, Flask, Java and SQL Frontend - Javascript, React, CSS, HTML, PHP Data - MySQL, Numpy, Kafka, Matplotlib, Pandas Other - Carbone, Jupyter, Bash Cloud - Azure, AWS, EC2 Project Management - RAID, JIRA, RACI, Monday.com
+Currently: Backend Software Engineer Intern @ Asora - A Wealth Management Saas Platform + Computer Science Master's Student in UCD. 
+
+Previously worked in Tech Recruitment in TG Group and as a capital markets data analyst for Citi. 
+
+Tech Stack: Backend - Python, Django, Flask, Java and SQL 
+Frontend - Javascript, React, CSS, HTML, PHP 
+Data - MySQL, Numpy, Kafka, Matplotlib, Pandas 
+Other - Carbone, Jupyter, Bash 
+Cloud - Azure, AWS, EC2 
+Project Management - RAID, JIRA, RACI, Monday.com
 
 * 🌍  I'm based in Dublin
 * ✉️  You can contact me at [Niallmckay71@gmail.com](mailto:Niallmckay71@gmail.com)
